@@ -14,3 +14,7 @@ XML formatidagi genetik ma'lumotlar fayli
 
 # Qanday Foydalaniladi:
 -Kodni yuklab oling va fayl yo'lini o'zgartirib shunchaki yugurtiring...
+
+# Kod
+- **[Loyiha manbasi](https://github.com/username/repository)** 
+- **[Python pandas hujjati](https://pandas.pydata.org/pandas-docs/stable/)** 
